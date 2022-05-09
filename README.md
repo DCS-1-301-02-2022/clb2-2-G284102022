@@ -3,9 +3,16 @@
 # 拓殖大学
 ## 情報工学科
 ![takushoku university](logo.png)
+![hachioji](hachioji.png)
 [拓殖大学](https://www.takushoku-u.ac.jp)
 *工学部にある学科*
 **コースが分かれている**
+1.工学部
+ 1.情報工学科
+
+
+-工学部
+ -情報工学科
 
 
 |左寄せ|中央|右寄せ|
